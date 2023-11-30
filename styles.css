@@ -1,2 +1,31 @@
 
 /* Your CSS Code here. */
+.container{
+	text-align:center;
+	margin:50px auto;
+}
+
+.moviePic{
+	height:300px;
+	width:auto;
+	opacity:0.9;
+	border-radius: 8px;
+}
+.movieDetail{
+	width:80%;
+	position:relative;
+	text-align:center;
+	padding:20px;
+	border-radius:8px;
+	background-color: #fff;
+	top:-20px;
+}
+
+
+
+
+
+
+
+
+
